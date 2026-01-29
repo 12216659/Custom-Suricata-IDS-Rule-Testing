@@ -1,0 +1,1 @@
+01/29/2026-13:34:56.471863  [**] [1:1000001:3] HTTP Basic Authentication Attempt Detected [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {TCP} 127.0.0.1:33214 -> 127.0.0.1:80
