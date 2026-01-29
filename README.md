@@ -146,5 +146,5 @@ grep -i '"event_type":"alert"' suricata-logs/eve.json
 
 ## 📬 Author
 
-**[Your Name]**
+**G Revanth kumar**
 Cyber Security / SOC Analyst Aspirant
