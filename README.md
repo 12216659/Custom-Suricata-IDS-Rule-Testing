@@ -130,13 +130,7 @@ grep -i '"event_type":"alert"' suricata-logs/eve.json
 * Generating controlled attack traffic
 * Validating IDS alerts using JSON logs
 
----
 
-## 📌 Resume-Ready Description
-
-> Developed and validated a custom Suricata IDS rule to detect HTTP Basic Authentication attempts. Generated test traffic using curl, captured packets with tcpdump, and verified alerts through Suricata log analysis.
-
----
 
 ## ✅ Status
 
